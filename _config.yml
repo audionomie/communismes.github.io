@@ -1,0 +1,88 @@
+# Site/SEO settings
+email: audionomie@riseup.net
+baseurl: ""
+permalink: /:year/:month/:day/:title/
+# google_analytics: 
+
+name: Jérôme Spielmann
+title: Audionomie
+description: >
+  Autonomie - Écologie - Antifascisme
+url: http://audionomie.net
+twitter_username: audionomie
+default_img: /assets/images/seo.jpg
+social:
+  - name: twitter
+    url: https://twitter.com/audionomie
+  # - name: instagram
+  #   url: https://www.instagram.com/thomas.vaeth/
+  # - name: linkedin
+  #   url: https://www.linkedin.com/in/thomasvaeth/
+  # - name: github
+  #   url: https://github.com/samesies
+  # - name: codepen
+  #   url: https://codepen.io/thomasvaeth/
+
+# Contact settings
+contact_img: /assets/images/nuages.jpg
+formcarry: https://formcarry.com/s/BssArny7a8M3
+
+# Disqus settings
+# disqus: test-apkdzgmqhj
+
+# MailChimp settings
+mailchimp_action: https://riseup.us10.list-manage.com/subscribe/post?u=eca21f3065b3f612df55834e0&amp;id=6236780f44
+mailchimp_input: b_eca21f3065b3f612df55834e0_6236780f44
+
+# Author settings
+author:
+  - name: Jérôme Spielmann
+    bio: 
+    url: http://audionomie.net
+
+# Pagination settings
+pagination:
+  enabled: true
+  debug: false
+  per_page: 12
+  permalink: '/page/:num/'
+  title: ':title'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
+autopages:
+  enabled: true
+  categories:
+    enabled: false
+  collections:
+    enabled: false
+  tags:
+    layouts: 
+      - 'tag.html'
+    title: 'Podcast'
+    permalink: '/tag/:tag'
+    slugify:
+      mode: raw
+      cased: true
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-paginate-v2
+  - jekyll-sitemap
+compress_html:
+  clippings: all
+  comments: all
+  startings: [html, head, body]
+exclude:
+  - node_modules
+  - .DS_Store
+  - barber.jpg
+  - Gemfile
+  - Gemfile.lock
+  - gulpfile.js
+  - package.json
+  - README.md
+  - vendor
+  - deploy.sh
+

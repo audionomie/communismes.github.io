@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Audionomie</title>
+    <description>Autonomie - Écologie - Antifascisme
+</description>
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 28 Jun 2020 22:07:54 +0200</pubDate>
+    <lastBuildDate>Sun, 28 Jun 2020 22:07:54 +0200</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>#2 - Le confusionnisme 2/2</title>
+        <description>&lt;p&gt;Cet épisode continue l'analyse théorique du confusionnisme en proposant une définition et quelques outils d'autodéfense intellectuelle.&lt;p&gt;
+
+&lt;!--more--&gt;
+
+&lt;div style=&quot;height: 10em; overflow: hidden;&quot;&gt;&lt;iframe width=&quot;100%&quot; src=&quot;https://audioblog.arteradio.com/embed/146973&quot; style=&quot;margin: 0;padding: 0;border: none;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;Texte complet de l'épisode&lt;/h2&gt;
+
+&lt;p&gt;blabla&lt;/p&gt;
+&lt;/p&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 29 Apr 2020 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/2020/04/29/2-le-confusionnisme/</link>
+        <author>Jérôme Spielmann (Audionomie)</author>
+        <guid isPermaLink="true">http://localhost:4000/2020/04/29/2-le-confusionnisme/</guid>
+        
+        <category>Podcast</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>#1 - Le confusionnisme 1/2</title>
+        <description>&lt;p&gt;Cet épisode débute l'analyse théorique du confusionnisme qui désigne l'injection d'idées réactionnaires dans les milieux militants à l'aide de techniques rhétoriques et de manipulation.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;div style=&quot;height: 10em; overflow: hidden;&quot;&gt;&lt;iframe width=&quot;100%&quot; src=&quot;https://audioblog.arteradio.com/embed/145390&quot; style=&quot;margin: 0;padding: 0;border: none;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;Texte complet de l'épisode&lt;/h2&gt;
+
+</description>
+        <pubDate>Wed, 08 Apr 2020 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/2020/04/08/1-le-confusionnisme/</link>
+        <author>Jérôme Spielmann (Audionomie)</author>
+        <guid isPermaLink="true">http://localhost:4000/2020/04/08/1-le-confusionnisme/</guid>
+        
+        <category>Podcast</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>

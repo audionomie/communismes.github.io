@@ -1,0 +1,22 @@
+<!-- The footer at the very bottom of the screen -->
+<footer class="footer section-padding">
+  <div class="grid">
+    <div class="subscribe" id="subscribe">
+      <div class="subscribe__container">
+        <span class="subscribe__title">Newsletter</span>
+        <p class="subscribe__text">Abonnez-vous au <a href="{{ '/feed.xml' | prepend: baseurl }}">flux RSS</a> ou recevez les nouveaux articles par mail.</p>
+        {% include subscribe-form.html %}
+      </div>
+    </div>
+  </div>
+</footer>
+
+{% include contact.html %}
+
+{% if paginator.next_page %}
+  <script>
+    var maxPages = parseInt('{{ paginator.total_pages }}');
+  </script>
+{% endif %}
+
+<script src="{{ '/assets/js/app.min.js' | prepend: site.baseurl }}"></script>
