@@ -4,10 +4,10 @@
     <title>Audionomie</title>
     <description>Autonomie - Écologie - Antifascisme
 </description>
-    <link>http://localhost:4000</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 28 Jun 2020 23:11:15 +0200</pubDate>
-    <lastBuildDate>Sun, 28 Jun 2020 23:11:15 +0200</lastBuildDate>
+    <link>http://audionomie.net</link>
+    <atom:link href="http://audionomie.net/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 29 Jun 2020 12:32:05 +0200</pubDate>
+    <lastBuildDate>Mon, 29 Jun 2020 12:32:05 +0200</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -26,11 +26,11 @@
 &lt;/p&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 29 Apr 2020 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/2020/04/29/2-le-confusionnisme/</link>
+        <link>http://audionomie.net/2020/04/29/2-le-confusionnisme/</link>
         <author>Jérôme Spielmann (Audionomie)</author>
-        <guid isPermaLink="true">http://localhost:4000/2020/04/29/2-le-confusionnisme/</guid>
+        <guid isPermaLink="true">http://audionomie.net/2020/04/29/2-le-confusionnisme/</guid>
         
-        <category>Podcast</category>
+        <category>podcast</category>
         
         
       </item>
@@ -49,11 +49,11 @@
 
 </description>
         <pubDate>Wed, 08 Apr 2020 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/2020/04/08/1-le-confusionnisme/</link>
+        <link>http://audionomie.net/2020/04/08/1-le-confusionnisme/</link>
         <author>Jérôme Spielmann (Audionomie)</author>
-        <guid isPermaLink="true">http://localhost:4000/2020/04/08/1-le-confusionnisme/</guid>
+        <guid isPermaLink="true">http://audionomie.net/2020/04/08/1-le-confusionnisme/</guid>
         
-        <category>Podcast</category>
+        <category>podcast</category>
         
         
       </item>
